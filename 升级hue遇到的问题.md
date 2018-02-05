@@ -27,3 +27,8 @@ show databases;
 
 然后暂时我也不知道怎么解决。。
 ```
+
+### hue的log位置：
+```
+/var/log/hue
+```
